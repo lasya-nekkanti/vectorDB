@@ -1,0 +1,46 @@
+Public Affairs for Engineers: Understanding Your Social & Ethical
+Role
+(for 2nd-year Engineering students — all branches)
+This handout simplifies the concepts from your slides into clear explanations, relatable
+examples, and reflection prompts. You can print or upload this as a pre-read or takeaway
+after your “Safety & Public Affairs” session.
+🌍 1. What Are Public Affairs?
+In simple words:
+Public Affairs means how companies or professionals interact with the public, government,
+and media to influence decisions that affect society.
+Why it matters for engineers:
+Your projects — from roads to software — directly affect people’s safety, privacy, and
+environment.
+Example:
+When the government plans a metro project, civil and electrical engineers share data,
+design insights, and safety inputs. That’s public affairs in action.
+Tip:
+Think beyond your job role. Ask, “Who else will be affected by my engineering decisions?”
+Reflection:
+️ Who should engineers talk to before building or launching something that impacts the
+public?
+🧱 2. Engineers and the Public
+In simple words:
+Engineering isn’t just about machines or code. It’s about improving human life safely and
+sustainably.
+Three areas every engineer affects:
+● Environment (Planet) — e.g., how much energy or waste your system uses.
+● People — e.g., how safe your designs or software are.
+● Profit — e.g., how responsibly a company earns money.
+Example:
+An app developer must consider data privacy (people), power usage (planet), and cost to
+users (profit).
+Tip:
+Before you start any project, ask:
+“Is this safe? Is this fair? Is this sustainable?”
+⚖️ 3. Public Affairs vs. CSR (Corporate Social Responsibility)
+Public Affairs CSR (Corporate Social Responsibility)
+Building relationships with government, media,
+and society
+Volunteering, donations, or social
+projects
+Involves policy influence, advocacy, and
+communication
+Focuses on community welfare and
+sustainability
+Ongoing and strategic Often one-time or project-based
